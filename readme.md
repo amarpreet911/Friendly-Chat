@@ -1,1 +1,0 @@
-![Friendly-Chat](https://github.com/amarpreet911/Friendly-Chat/blob/master/friendly_chat.png "Friendly-Chat")
